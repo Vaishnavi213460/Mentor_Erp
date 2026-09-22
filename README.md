@@ -4,7 +4,7 @@ Execute these commands to set up the project locally:
 
  **Clone or extract the repository:**
    
-   git clone <YOUR_GIT_REPOSITORY_URL>
+   git clone (https://github.com/Vaishnavi213460/Mentor_Erp.git)
    cd mentor_erp
    
  **Run these in terminal**
