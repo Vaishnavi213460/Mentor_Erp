@@ -2,11 +2,18 @@
 
 Execute these commands to set up the project locally:
 
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate --seed
-php artisan serve
+ **Clone or extract the repository:**
+   
+   git clone <YOUR_GIT_REPOSITORY_URL>
+   cd mentor_erp
+   
+ **Run these in terminal**
+
+    composer install
+    cp .env.example .env
+    php artisan key:generate
+    php artisan migrate --seed
+    php artisan serve
 
 ## Default login credentials for Api
 
